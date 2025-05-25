@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TG4LSiySFud2WYmtnqKKS8frB6emFsgQbdd/+24Cupw=",
+  "Source": "OmdbWrapperApi",
+  "BasePath": "_content/OmdbWrapperApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
