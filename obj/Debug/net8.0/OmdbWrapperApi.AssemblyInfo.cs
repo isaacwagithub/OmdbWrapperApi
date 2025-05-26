@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OmdbWrapperApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99fbe46b31e1969268cee057a4db5c941a3231cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("OmdbWrapperApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OmdbWrapperApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
